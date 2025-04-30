@@ -1,15 +1,44 @@
-# What is this?
+# Guia de Colaboração e Documentação com Git e GitHub
 
-The github.dev web-based editor is a lightweight editing experience that runs entirely in your browser. You can navigate files and source code repositories from GitHub, and make and commit code changes.
+Este guia faz parte do exercício da Formação Git da DIO, com foco na colaboração em projetos de código aberto e na utilização de Markdown para documentação.
 
-There are two ways to go directly to a VS Code environment in your browser and start coding:
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario/seu-repositorio)
 
-* Press the . key on any repository or pull request.
-* Swap `.com` with `.dev` in the URL. For example, this repo https://github.com/github/dev becomes http://github.dev/github/dev
+## Explorando Colaboração e Markdown
 
-Preview the gif below to get a quick demo of github.dev in action.
+Este exercício faz parte da Formação Git da DIO e tem como objetivo demonstrar as práticas de colaboração utilizando Git e GitHub, além de mostrar como utilizar o Markdown para documentar projetos de forma clara e eficiente.
 
-![github dev](https://user-images.githubusercontent.com/856858/130119109-4769f2d7-9027-4bc4-a38c-10f297499e8f.gif)
+## Contribuindo
 
-# Why?
-It’s a quick way to edit and navigate code. It's especially useful if you want to edit multiple files at a time or take advantage of all the powerful code editing features of Visual Studio Code when making a quick change. For more information, see our [documentation](https://github.co/codespaces-editor-help).
+Contribuições são sempre bem-vindas! Para começar, siga os passos abaixo:
+
+1. Leia o arquivo `README.md` para entender como colaborar.
+2. Faça um fork do repositório e clone-o em sua máquina local.
+3. Realize alterações, faça commits e abra pull requests.
+4. Se necessário, crie issues para discutir melhorias ou bugs.
+   
+**Siga as boas práticas para garantir a melhoria contínua do projeto.**
+
+## Referências
+
+- [@alinealien](https://github.com/alinealien) :alien: - Criadora do repositório, desenvolvedora e colaboradora ativa.
+- [Repositório Exemplo do Projeto](https://github.com/alinealien/desafio-github-markdown) :wrench: - Repositório de exemplo, onde o desafio original foi proposto.
+- [Documentação do Curso](https://aline-antunes.gitbook.io/formacao-fundamentos-github) - Documentação completa da Formação Git no DIO, ideal para aprofundar seus conhecimentos sobre Git e GitHub.
+
+## Agradecimentos
+
+*_Agradecemos por contribuir para este projeto! Caso tenha sugestões, correções ou melhorias, fique à vontade para abrir novas issues ou enviar pull requests.<br>
+Sua contribuição é fundamental para a evolução deste repositório!_*
+
+---
+
+#### Mantenedor desta versão do projeto:  Paulo Macedo :alien:
+
+[Paulo Macedo](https://github.com/psam1993)
+- Aluno do Certificação GIT
+
+## Tecnologias e Ferramentas Utilizadas
+
+Este projeto utiliza as seguintes tecnologias e ferramentas:
+
+[![Skills](https://skillicons.dev/icons?i=git,github,githubactions,md,devto&perline=5)](https://skillicons.dev)
